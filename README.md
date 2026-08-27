@@ -1,34 +1,30 @@
-# Olá, eu sou Leonardo Matos Gomes 👋
+# 👋 Olá, eu sou o Leonardo Matos Gomes!
 
-🎓 Estudante do **2º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**.
-
-💻 Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente estudando e desenvolvendo habilidades em programação, banco de dados, desenvolvimento web e boas práticas de desenvolvimento.
+Estudante do **2º Semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **Unicsul**.
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Cursando ADS na UNICSUL
-- 💡 Sempre buscando aprender novas tecnologias
-- 📚 Em constante evolução na área de desenvolvimento
-- 🤝 Aberto a networking e colaboração em projetos
-
----
-
-## 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-leoomatosg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-11992289622-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551199nstagram](https://img.shields.io/badge/Instagram-@leomatosg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)gram.com/leomatosg)
-
-[![DEV Community](https://img.shields.io/badge/DEV.to-leojj-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leojj)
-
-ciais
+## 📬 Contatos & Redes Sociais
 
 <p align="left">
   <a href="mailto:leoomatosg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Emailps://wa.me/9622
-    <img src="https://skillicons.dev/icons?i=discord" alt="WhatsApp//instagram.com/leomatosg">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="="https://dev.to/leojj">
-    <img src="https://cdn.simpleicons.org/devdotto/white" alt="DEV.to" width="48o ao meu perfil! Estou sempre aprendendo, criando projetos e compartilhando conhecimento.
-``
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5511992289622">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://dev.to/leojj">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://instagram.com/leomatosg">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre Mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicsul** (2º Semestre).
+- 💻 Em busca de constante aprendizado e aprimoramento em desenvolvimento de software e tecnologia.
+- 📩 Sinta-se à vontade para entrar em contato comigo através de qualquer uma das redes acima!
