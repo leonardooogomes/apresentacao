@@ -1,6 +1,18 @@
 # 👋 Olá, eu sou o Leonardo Matos Gomes!
 
-Estudante do **2º Semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **Unicsul**.
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** | **2º Semestre na Unicsul**
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou um entusiasta da tecnologia e da transformação digital, atualmente cursando o **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (Unicsul)**. 
+
+Tenho focado o meu aprendizado na construção de uma base sólida em **lógica de programação, arquitetura de software, bancos de dados e desenvolvimento web**. Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos, explorando boas práticas de código, metodologias ágeis e a solução eficiente de problemas.
+
+- 🎓 **Formação:** Graduação em Análise e Desenvolvimento de Sistemas — *Unicsul* (2º Semestre)
+- 🎯 **Objetivo:** Aplicar e expandir meus conhecimentos em desenvolvimento de software através de desafios reais e oportunidades de estágio/projetos.
+- 💡 **Interesses:** Desenvolvimento Web, Engenharia de Software, Resolução de Problemas e Novas Tecnologias.
 
 ---
 
@@ -23,8 +35,4 @@ Estudante do **2º Semestre de Análise e Desenvolvimento de Sistemas (ADS)** na
 
 ---
 
-## 🚀 Sobre Mim
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicsul** (2º Semestre).
-- 💻 Em busca de constante aprendizado e aprimoramento em desenvolvimento de software e tecnologia.
-- 📩 Sinta-se à vontade para entrar em contato comigo através de qualquer uma das redes acima!
+📩 *Sinta-se à vontade para entrar em contato ou se conectar comigo em qualquer uma das redes acima!*
