@@ -17,18 +17,17 @@
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-leoomatosg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmail.com)
+[![Email](https://img.shields.io/badge/Email-leoomatosg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#App](https://img.shields.io/badge/WhatsApp-11992289622-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-11992289622-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551199nstagram](https://img.shields.io/badge/Instagram-@leomatosg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)gram.com/leomatosg)
+[![Instagram](https://img.shields.io/badge/Instagram-@leomatosg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/leomatosg)
 
-[![DEV Community](https://img.shields.io/badge/DEV.to-leojj-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leojj)
+[![DEV.to](https://img.shields.io/badge/DEV.to-leojj-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leojj)
 
-ciais
+edes Sociais
 
 <p align="left">
-  <a href="mailto:leoomatosg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Emailps://wa.me/9622
-    <img src="https://skillicons.dev/icons?i=discord" alt="WhatsApp//instagram.com/leomatosg">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="="https://dev.to/leojj">
-    <img src="https://cdn.simpleicons.org/devdotto/white" alt="DEV.to" width="48o ao meu perfil! Estou sempre aprendendo, criando projetos e compartilhando conhecimento.
-``
+  <a href="https://instagram.com/leomatosg">
+    <img src="https://skillicons.dev/iconsam
+  </a>
+  <a href="https://dev.to/leojj">
+    <img src="https://cdn.simpleicons.org/devdotto/white" width="48Seja bem-vindo ao meu perfil! Estou sempre aprendendo, criando projetos e compartilhando conhecimento.
