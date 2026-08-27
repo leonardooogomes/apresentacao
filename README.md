@@ -1,52 +1,57 @@
 # Olá, eu sou Leonardo Matos Gomes 👋
 
-### 💻 Desenvolvedor Front-end | Estudante de Engenharia de Software
+### 💻 Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas
 
-Sou apaixonado por tecnologia, desenvolvimento web e resolução de problemas. Atualmente curso Engenharia de Software e estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento Front-end, Back-end e boas práticas de engenharia de software.
+Sou apaixonado por tecnologia, desenvolvimento web e resolução de problemas através da programação. Atualmente estou cursando o **2º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cruzeiro do Sul (UNICSUL)** e busco constantemente aprimorar minhas habilidades técnicas e profissionais.
 
-Tenho como objetivo criar aplicações intuitivas, escaláveis e que gerem impacto real para usuários e empresas. Acredito no aprendizado contínuo, na colaboração e no poder da tecnologia para transformar ideias em soluções.
+Tenho interesse especial em desenvolvimento Front-end, experiência do usuário (UI/UX) e construção de aplicações modernas, responsivas e eficientes. Estou sempre estudando novas tecnologias e colocando meus conhecimentos em prática através de projetos pessoais e desafios de desenvolvimento.
+
+> 🚀 Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções que geram valor e impactam positivamente a vida das pessoas.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoite
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logogoColor=black
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=## Back-end
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=oColor=white
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=ngoColor=white
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=oColor=white
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=oColor=white
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitehttps://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptck
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAack-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&white
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figmar=white
 
 ---
 
-## 🌱 Atualmente Estudando
+## 🎓 Formação
 
-- Engenharia de Software
-- Arquitetura de Sistemas
+**Análise e Desenvolvimento de Sistemas (ADS)**  
+🏫 Universidade Cruzeiro do Sul (UNICSUL)  
+📚 Atualmente no 2º semestre
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+- React e ecossistema Front-end moderno
 - Desenvolvimento Full Stack
+- Estruturas de Dados e Algoritmos
 - APIs REST
-- Banco de Dados
-- Clean Code e Boas Práticas
+- Banco de Dados SQL
+- Git e GitHub avançado
+- Boas práticas de programação e Clean Code
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🚀 Meus Objetivos
 
-Busco oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de software, participando de projetos desafiadores que contribuam para meu crescimento profissional e para a geração de valor através da tecnologia.
-
----
-
-## 📫 Conecte-se Comigo
-
-[![GitHub](https://img.shields.io/badge/GitHub-leonardooogomes-181717?style=for-the-badge&logo=github)](https://github.comomes)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Matos%20Gomes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedinosgomes/)
+- Evoluir como Desenvolvedor Front-end
+- Participar de projetos inovadores e desafiadores
+- Contribuir para soluções que gerem impacto real
+- Conquistar minha primeira oportunidade profissional na área de tecnologia
+- Desenvolver habilidades em arquitetura de software e desenvolvimento Full Stack
 
 ---
 
-⭐ Sempre aberto para networking, colaboração em projetos e novas oportunidades na área de tecnologia.
+## 📊 GitHub Stats
