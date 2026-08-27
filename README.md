@@ -1,48 +1,34 @@
 # Olá, eu sou Leonardo Matos Gomes 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**, atualmente no **2º semestre**.
+🎓 Estudante do **2º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**.
 
-💻 Apaixonado por tecnologia, desenvolvimento de software e aprendizado constante. Estou construindo minha jornada na área de TI, desenvolvendo projetos, estudando novas tecnologias e buscando oportunidades para evoluir como desenvolvedor.
-
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de ADS na UNICSUL
-- 🚀 Em constante aprendizado no mundo da programação
-- 📚 Focado em desenvolvimento web, lógica de programação e boas práticas de desenvolvimento
-- 🤝 Sempre aberto a aprender, colaborar e compartilhar conhecimento
+💻 Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente estudando e desenvolvendo habilidades em programação, banco de dados, desenvolvimento web e boas práticas de desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-### Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitehttps://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&t&logoColor=black
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor= Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) Objetivos
-
-Atualmente estou focado em:
-
-- Aprimorar minhas habilidades em desenvolvimento web
-- Desenvolver projetos para fortalecer meu portfólio
-- Aprender frameworks e tecnologias modernas
-- Conquistar minha primeira oportunidade na área de tecnologia
+- 🎓 Cursando ADS na UNICSUL
+- 💡 Sempre buscando aprender novas tecnologias
+- 📚 Em constante evolução na área de desenvolvimento
+- 🤝 Aberto a networking e colaboração em projetos
 
 ---
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)oomatosg@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leoomatosg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://89622)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-11992289622-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551199nstagram](https://img.shields.io/badge/Instagram-@leomatosg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)gram.com/leomatosg)
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)v.to/leojj)
+[![DEV Community](https://img.shields.io/badge/DEV.to-leojj-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leojj)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com-
+ciais
 
-⭐ Sempre estudando, evoluindo e construindo novos projetos.
+<p align="left">
+  <a href="mailto:leoomatosg@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Emailps://wa.me/9622
+    <img src="https://skillicons.dev/icons?i=discord" alt="WhatsApp//instagram.com/leomatosg">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="="https://dev.to/leojj">
+    <img src="https://cdn.simpleicons.org/devdotto/white" alt="DEV.to" width="48o ao meu perfil! Estou sempre aprendendo, criando projetos e compartilhando conhecimento.
+``
