@@ -1,72 +1,48 @@
 # Olá, eu sou Leonardo Matos Gomes 👋
 
-### 💻 Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**, atualmente no **2º semestre**.
 
-Sou apaixonado por tecnologia, desenvolvimento web e resolução de problemas através da programação. Atualmente curso o **2º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cruzeiro do Sul (UNICSUL)**.
+💻 Apaixonado por tecnologia, desenvolvimento de software e aprendizado constante. Estou construindo minha jornada na área de TI, desenvolvendo projetos, estudando novas tecnologias e buscando oportunidades para evoluir como desenvolvedor.
 
-Tenho interesse especial em desenvolvimento Front-end, experiência do usuário (UI/UX) e construção de aplicações modernas, responsivas e eficientes. Estou sempre estudando novas tecnologias e colocando meus conhecimentos em prática através de projetos pessoais e desafios de desenvolvimento.
+---
 
-> 🚀 Transformando aprendizado em código e código em soluções.
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de ADS na UNICSUL
+- 🚀 Em constante aprendizado no mundo da programação
+- 📚 Focado em desenvolvimento web, lógica de programação e boas práticas de desenvolvimento
+- 🤝 Sempre aberto a aprender, colaborar e compartilhar conhecimento
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- React
-
-### Back-end
-- Python
-- Node.js
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5r=white
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoite
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&k
 
 ### Ferramentas
-- Git
-- GitHub
-- Figma
-- VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColorS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-codewhite
 
 ---
 
-## 🎓 Formação
+## 🚀 Objetivos
 
-**Análise e Desenvolvimento de Sistemas (ADS)**  
-🏫 Universidade Cruzeiro do Sul (UNICSUL)  
-📚 Atualmente no 2º semestre
+Atualmente estou focado em:
 
----
-
-## 🌱 Atualmente Aprendendo
-
-- React e ecossistema Front-end moderno
-- Desenvolvimento Full Stack
-- Estruturas de Dados e Algoritmos
-- APIs REST
-- Banco de Dados SQL
-- Clean Code e Boas Práticas de Desenvolvimento
-
----
-
-## 🎯 Objetivos Profissionais
-
-- Evoluir como Desenvolvedor Front-end
+- Aprimorar minhas habilidades em desenvolvimento web
+- Desenvolver projetos para fortalecer meu portfólio
+- Aprender frameworks e tecnologias modernas
 - Conquistar minha primeira oportunidade na área de tecnologia
-- Participar de projetos inovadores e desafiadores
-- Aprimorar conhecimentos em desenvolvimento Full Stack
-- Contribuir para soluções que gerem impacto real
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📫 Contato
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardooogomes&show_icons=true&theme=tokyonight"="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardooogomes&layout=compact&theme=📫 Conecte-se Comigo
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto@gmail.com)
 
-- GitHub: https://github.com/leonardooogomes
-- LinkedIn: https://www.linkedin.com/in/leomatosgomes/
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://)
 
----
-
-⭐ Sempre aberto para networking, aprendizado, colaboração em projetos e novas oportunidades na área de tecnologia.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leomatosg) estudando, evoluindo e construindo novos projetos.
