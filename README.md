@@ -1,74 +1,52 @@
 # Olá, eu sou Leonardo Matos Gomes 👋
 
-## 👨‍💻 Sobre Mim
+### 💻 Desenvolvedor Front-end | Estudante de Engenharia de Software
 
-Sou estudante de Engenharia de Software e desenvolvedor apaixonado por tecnologia, inovação e resolução de problemas. Tenho interesse no desenvolvimento de aplicações web modernas, com foco na criação de interfaces intuitivas, responsivas e de alta performance.
+Sou apaixonado por tecnologia, desenvolvimento web e resolução de problemas. Atualmente curso Engenharia de Software e estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento Front-end, Back-end e boas práticas de engenharia de software.
 
-Estou constantemente aprimorando minhas habilidades técnicas, explorando novas tecnologias e buscando oportunidades para transformar ideias em soluções digitais que gerem valor.
-
-> "Aprender, construir e evoluir todos os dias."
+Tenho como objetivo criar aplicações intuitivas, escaláveis e que gerem impacto real para usuários e empresas. Acredito no aprendizado contínuo, na colaboração e no poder da tecnologia para transformar ideias em soluções.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
 ### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Responsive Design
-
-### Back-end
-- Python
-- Node.js
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoite
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logogoColor=black
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=## Back-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=oColor=white
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=ngoColor=white
 
 ### Ferramentas
-- Git & GitHub
-- Figma
-- VS Code
-- Metodologias Ágeis (Scrum e Kanban)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=oColor=white
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=oColor=white
 
 ---
 
-## 📚 Atualmente Estudando
+## 🌱 Atualmente Estudando
 
 - Engenharia de Software
-- Arquitetura de Aplicações Web
+- Arquitetura de Sistemas
 - Desenvolvimento Full Stack
-- Boas práticas de código e Clean Code
-- Banco de Dados e APIs REST
+- APIs REST
+- Banco de Dados
+- Clean Code e Boas Práticas
 
 ---
 
-## 💼 Projetos em Destaque
+## 🎯 Objetivo Profissional
 
-### 🔹 Projeto 1
-**Nome do Projeto**  
-Breve descrição do projeto, objetivo, tecnologias utilizadas e resultados alcançados.
-
-### 🔹 Projeto 2
-**Nome do Projeto**  
-Breve descrição do projeto, objetivo, tecnologias utilizadas e resultados alcançados.
-
-### 🔹 Projeto 3
-**Nome do Projeto**  
-Breve descrição do projeto, objetivo, tecnologias utilizadas e resultados alcançados.
+Busco oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de software, participando de projetos desafiadores que contribuam para meu crescimento profissional e para a geração de valor através da tecnologia.
 
 ---
 
-## 📈 Objetivos Profissionais
+## 📫 Conecte-se Comigo
 
-Busco oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com projetos desafiadores e colaborando com equipes que valorizam inovação, aprendizado contínuo e excelência técnica.
+[![GitHub](https://img.shields.io/badge/GitHub-leonardooogomes-181717?style=for-the-badge&logo=github)](https://github.comomes)
 
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfilhttps://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-[Email](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtomail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)e/seunumero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Matos%20Gomes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedinosgomes/)
 
 ---
 
-⭐ Sempre aberto a novas conexões, oportunidades e projetos na área de tecnologia.
+⭐ Sempre aberto para networking, colaboração em projetos e novas oportunidades na área de tecnologia.
